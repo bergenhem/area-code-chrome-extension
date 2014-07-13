@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Area Code Lookup",
+  "version": "1.0",
+  "description": "An extension focusing on figuring out where a US-based area codes are located (state and time zone).",
+  "browser_action": {
+    "default_icon": "icon.png"
+  }
+}
