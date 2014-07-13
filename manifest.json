@@ -5,6 +5,6 @@
   "description": "An extension focusing on figuring out where a US-based area codes are located (state and time zone).",
   "browser_action": {
     "default_icon": "images/icon.png",
-    "default_popip": "popup.html"
+    "default_popup": "popup.html"
   }
 }
